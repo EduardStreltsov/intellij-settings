@@ -1,0 +1,7 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="v001_create_task_table" type="SQL" />
+    </extensionMap>
+  </component>
+</application>
