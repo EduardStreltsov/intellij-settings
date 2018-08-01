@@ -3,23 +3,18 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-01T20:37:16</property>
+    <property name="modified">2018-08-01T21:28:40</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
+    <option name="ADDED_LINES_COLOR" value="3bcb6e" />
     <option name="CARET_ROW_COLOR" value="f7faff" />
     <option name="CONSOLE_BACKGROUND_KEY" value="f2f2f2" />
     <option name="GUTTER_BACKGROUND" value="" />
     <option name="SELECTION_BACKGROUND" value="9c9c9c" />
   </colors>
   <attributes>
-    <option name="ANNOTATION_NAME_ATTRIBUTES">
-      <value>
-        <option name="FOREGROUND" value="35b1ea" />
-        <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
-    </option>
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
     <option name="BREAKPOINT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="ffffcc" />
@@ -57,7 +52,7 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT">
       <value>
-        <option name="FOREGROUND" value="f9795" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -85,7 +80,7 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="88ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -97,8 +92,8 @@
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="7bc2db" />
-        <option name="BACKGROUND" value="f2f2f2" />
+        <option name="FOREGROUND" value="c300" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -117,7 +112,7 @@
     </option>
     <option name="DEFAULT_STRING">
       <value>
-        <option name="FOREGROUND" value="a59f" />
+        <option name="FOREGROUND" value="b9af" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -185,11 +180,16 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="f5f000" />
         <option name="FONT_TYPE" value="2" />
-        <option name="EFFECT_COLOR" value="ffff00" />
         <option name="ERROR_STRIPE_COLOR" value="ffd100" />
         <option name="EFFECT_TYPE" value="4" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_COLOR" value="40d156" />
+        <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
     <option name="WARNING_ATTRIBUTES">
