@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-01T21:28:40</property>
+    <property name="modified">2018-08-02T10:28:30</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -73,7 +73,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="c00c4" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="BACKGROUND" value="ffd1c3" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -94,6 +94,11 @@
       <value>
         <option name="FOREGROUND" value="c300" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="DEFAULT_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="32ff" />
       </value>
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
@@ -118,7 +123,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="ff" />
+        <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
