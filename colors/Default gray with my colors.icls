@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-02T13:35:54</property>
+    <property name="modified">2018-08-02T14:48:47</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -31,6 +31,12 @@
       <value>
         <option name="FOREGROUND" value="ec9d21" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="DEFAULT_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="b000b9" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_BLOCK_COMMENT">
@@ -64,6 +70,12 @@
     </option>
     <option name="DEFAULT_DOT">
       <value />
+    </option>
+    <option name="DEFAULT_ENTITY">
+      <value>
+        <option name="FOREGROUND" value="b000b9" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
@@ -154,6 +166,12 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="HTML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="9c5100" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="IDENTIFIER_UNDER_CARET_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="d4cfb4" />
@@ -184,6 +202,34 @@
       <value>
         <option name="FOREGROUND" value="b000b9" />
         <option name="FONT_TYPE" value="3" />
+      </value>
+    </option>
+    <option name="JS.INSTANCE_MEMBER_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="7a7a43" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.LOCAL_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="458383" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACES">
+      <value>
+        <option name="FOREGROUND" value="ff9600" />
+      </value>
+    </option>
+    <option name="REGEXP.BRACKETS">
+      <value>
+        <option name="FOREGROUND" value="ff9600" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REGEXP.PARENTHS">
+      <value>
+        <option name="FOREGROUND" value="ff9600" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
@@ -236,6 +282,14 @@
         <option name="BACKGROUND" value="ffd1c3" />
         <option name="ERROR_STRIPE_COLOR" value="ffd1c3" />
         <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
+      <value>
+        <option name="BACKGROUND" value="e0e0cc" />
+        <option name="EFFECT_COLOR" value="807a59" />
+        <option name="ERROR_STRIPE_COLOR" value="807a59" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="WRONG_REFERENCES_ATTRIBUTES">
