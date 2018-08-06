@@ -1,6 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
     <notification groupId="Find in Path" displayType="TOOL_WINDOW" />
@@ -9,9 +8,9 @@
     <notification groupId="Gradle Import" displayType="STICKY_BALLOON" />
     <notification groupId="IDE Usage Statistics" displayType="STICKY_BALLOON" />
     <notification groupId="Indexing" />
-    <notification groupId="Maven Import" displayType="NONE" />
     <notification groupId="Profiling" />
     <notification groupId="Remote Desktop" />
     <notification groupId="Run Dashboard" displayType="STICKY_BALLOON" />
+    <notification groupId="System Health" displayType="STICKY_BALLOON" />
   </component>
 </application>
