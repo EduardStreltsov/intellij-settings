@@ -244,6 +244,30 @@
           <option name="namespace" value="eduard.streltsov" />
           <option name="sshUrl" value="git@gitlab.t1.tenet:eduard.streltsov/FannieMae.git" />
         </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.t1.tenet/pdg_qa/FNMA_Autotests.git" />
+          <option name="name" value="FNMA_Autotests" />
+          <option name="namespace" value="pdg_qa" />
+          <option name="sshUrl" value="git@gitlab.t1.tenet:pdg_qa/FNMA_Autotests.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.t1.tenet/pdg_qa/Performance.git" />
+          <option name="name" value="Performance" />
+          <option name="namespace" value="pdg_qa" />
+          <option name="sshUrl" value="git@gitlab.t1.tenet:pdg_qa/Performance.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.t1.tenet/pdg_qa/project_delivery_automation.git" />
+          <option name="name" value="project_delivery_automation" />
+          <option name="namespace" value="pdg_qa" />
+          <option name="sshUrl" value="git@gitlab.t1.tenet:pdg_qa/project_delivery_automation.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gitlab.t1.tenet/pdg_qa/QcListener.git" />
+          <option name="name" value="QcListener" />
+          <option name="namespace" value="pdg_qa" />
+          <option name="sshUrl" value="git@gitlab.t1.tenet:pdg_qa/QcListener.git" />
+        </ProjectDto>
       </list>
     </option>
   </component>
