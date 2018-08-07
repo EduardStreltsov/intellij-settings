@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-07T13:19:47</property>
+    <property name="modified">2018-08-07T20:01:42</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -285,10 +285,22 @@
         <option name="ERROR_STRIPE_COLOR" value="ff00" />
       </value>
     </option>
+    <option name="IGNORE.HEADER">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="IGNORE.NEGATION">
       <value>
         <option name="FOREGROUND" value="ff0000" />
         <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="IGNORE.SECTION">
+      <value>
+        <option name="FOREGROUND" value="808080" />
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="IGNORE.SLASH">
@@ -296,7 +308,7 @@
     </option>
     <option name="IGNORE.VALUE">
       <value>
-        <option name="FOREGROUND" value="c300" />
+        <option name="FOREGROUND" value="88ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
