@@ -1,5 +1,6 @@
 <application>
   <component name="NotificationConfiguration">
+    <notification groupId=".ignore plugin" displayType="STICKY_BALLOON" shouldLog="false" />
     <notification groupId="Branch Context group" displayType="NONE" />
     <notification groupId="Debugger messages" displayType="TOOL_WINDOW" />
     <notification groupId="Dependencies from package.json" displayType="STICKY_BALLOON" />
