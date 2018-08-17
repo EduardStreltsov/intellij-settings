@@ -8,7 +8,6 @@
     <option name="INDENT_PACKAGE_CHILDREN" value="1" />
   </ECMA4CodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
