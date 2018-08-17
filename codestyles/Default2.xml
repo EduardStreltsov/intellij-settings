@@ -8,7 +8,7 @@
     <option name="INDENT_PACKAGE_CHILDREN" value="1" />
   </ECMA4CodeStyleSettings>
   <HTMLCodeStyleSettings>
-    <option name="HTML_ATTRIBUTE_WRAP" value="2" />
+    <option name="HTML_ATTRIBUTE_WRAP" value="0" />
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html,thead,tbody,tfoot" />
@@ -43,6 +43,8 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="HTML">
+    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="SOFT_MARGINS" value="80,120" />
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
