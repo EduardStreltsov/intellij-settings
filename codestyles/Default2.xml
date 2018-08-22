@@ -11,6 +11,7 @@
     <option name="HTML_ALIGN_TEXT" value="true" />
     <option name="HTML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
     <option name="HTML_DO_NOT_INDENT_CHILDREN_OF" value="html" />
+    <option name="HTML_KEEP_WHITESPACES_INSIDE" value="span,pre" />
     <option name="HTML_ENFORCE_QUOTES" value="true" />
   </HTMLCodeStyleSettings>
   <JSCodeStyleSettings>
