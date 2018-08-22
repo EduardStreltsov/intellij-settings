@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-08-16T14:23:07</property>
+    <property name="modified">2018-08-22T15:50:18</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -137,7 +137,7 @@
     </option>
     <option name="DEFAULT_COMMA">
       <value>
-        <option name="FOREGROUND" value="e6004b" />
+        <option name="FOREGROUND" value="ff0052" />
       </value>
     </option>
     <option name="DEFAULT_CONSTANT">
@@ -209,7 +209,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="e6004b" />
+        <option name="FOREGROUND" value="ff0052" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
