@@ -2,6 +2,10 @@
   <action id="ActivateDatabaseToolWindow">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="shift alt back_quote" />
+  </action>
   <action id="CloseAllEditorsButActive">
     <keyboard-shortcut first-keystroke="ctrl alt numpad0" />
   </action>
@@ -71,9 +75,6 @@
   <action id="RunToCursor">
     <keyboard-shortcut first-keystroke="alt f9" />
     <keyboard-shortcut first-keystroke="ctrl numpad6" />
-  </action>
-  <action id="ShowLiveRunConfigurations">
-    <keyboard-shortcut first-keystroke="shift ctrl back_quote" />
   </action>
   <action id="SplitHorizontally">
     <keyboard-shortcut first-keystroke="alt h" />
