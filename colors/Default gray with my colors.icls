@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2018-12-10T19:57:19</property>
+    <property name="modified">2019-01-10T16:52:43</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -155,7 +155,7 @@
     <option name="DEFAULT_CONSTANT">
       <value>
         <option name="FOREGROUND" value="b000b9" />
-        <option name="FONT_TYPE" value="3" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT">
@@ -193,7 +193,7 @@
     </option>
     <option name="DEFAULT_INVALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="b000b9" />
+        <option name="FOREGROUND" value="8080" />
         <option name="BACKGROUND" value="ded9ff" />
         <option name="FONT_TYPE" value="1" />
       </value>
@@ -250,7 +250,7 @@
     </option>
     <option name="DEFAULT_VALID_STRING_ESCAPE">
       <value>
-        <option name="FOREGROUND" value="b000b9" />
+        <option name="FOREGROUND" value="8080" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
@@ -375,19 +375,25 @@
     </option>
     <option name="REGEXP.BRACES">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="9c7000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.BRACKETS">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="9c7000" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="REGEXP.CHAR_CLASS">
+      <value>
+        <option name="FOREGROUND" value="8080" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="REGEXP.PARENTHS">
       <value>
-        <option name="FOREGROUND" value="ff9600" />
+        <option name="FOREGROUND" value="9c7000" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
