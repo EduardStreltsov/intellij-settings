@@ -114,6 +114,10 @@
           <option name="url" value="https://github.com/EduardStreltsov/spring5-di-demo.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/springframeworkguru/testing-java-junit5-ci.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\eduard.streltsov\IdeaProjects" />
