@@ -2,8 +2,31 @@
   <component name="StringManipulationState">
     <option name="donationNagger">
       <DonationNagger>
-        <option name="actionsExecuted" value="6" />
+        <option name="actionsExecuted" value="20" />
       </DonationNagger>
+    </option>
+    <option name="history">
+      <list>
+        <ColumnAlignerModel>
+          <option name="added" value="1548922509467" />
+          <option name="separators">
+            <list>
+              <option value="," />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+        <ColumnAlignerModel>
+          <option name="added" value="1548922827182" />
+          <option name="alignBy" value="VALUES" />
+          <option name="separators">
+            <list>
+              <option value=" " />
+              <option value="" />
+            </list>
+          </option>
+        </ColumnAlignerModel>
+      </list>
     </option>
   </component>
 </application>
