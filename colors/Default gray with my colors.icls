@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2019-01-10T16:52:43</property>
+    <property name="modified">2019-02-14T19:03:53</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -339,7 +339,7 @@
     <option name="INFO_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff00ff" />
-        <option name="ERROR_STRIPE_COLOR" value="ff00ff" />
+        <option name="ERROR_STRIPE_COLOR" value="ffd1ff" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
