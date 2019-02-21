@@ -3,7 +3,7 @@
     <property name="created">2018-01-14T21:14:26</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2017.3.2.0.0</property>
-    <property name="modified">2019-02-15T13:41:32</property>
+    <property name="modified">2019-02-21T13:18:55</property>
     <property name="originalScheme">Default gray</property>
   </metaInfo>
   <colors>
@@ -431,7 +431,8 @@
     </option>
     <option name="TODO_DEFAULT_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="f5f000" />
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="fff500" />
         <option name="FONT_TYPE" value="2" />
         <option name="ERROR_STRIPE_COLOR" value="ffd100" />
         <option name="EFFECT_TYPE" value="4" />
