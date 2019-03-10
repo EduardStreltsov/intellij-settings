@@ -31,6 +31,9 @@
   <XML>
     <option name="XML_SPACE_AROUND_EQUALITY_IN_ATTRIBUTE" value="true" />
   </XML>
+  <editorconfig>
+    <option name="ENABLED" value="false" />
+  </editorconfig>
   <codeStyleSettings language="CSS">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
