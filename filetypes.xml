@@ -15,6 +15,7 @@
       <mapping ext="pages" type="PLAIN_TEXT" />
       <mapping pattern="592-es-update_deficiencies_config" type="SQL" />
       <mapping pattern="547-es-update_deficiency_identifiers" type="XML" />
+      <mapping pattern="0002-es-expenses-table-creation" type="YAML" />
     </extensionMap>
   </component>
 </application>
