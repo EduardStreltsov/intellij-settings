@@ -142,8 +142,12 @@
           <option name="url" value="https://github.com/oktadeveloper/okta-spring-boot-2-angular-7-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/bobocode-projects/jpa-hibernate-exercises.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects" />
+    <option name="cloneParentDir" value="D:\Projects\bobocode" />
   </component>
 </application>
