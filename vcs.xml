@@ -146,8 +146,16 @@
           <option name="url" value="https://github.com/bobocode-projects/jpa-hibernate-exercises.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/springframeworkguru/testing-junit5-mockito.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/EduardStreltsov/testing-junit5-mockito.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\bobocode" />
+    <option name="cloneParentDir" value="D:\Projects\udemy\sfg5" />
   </component>
 </application>
