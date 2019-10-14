@@ -1,16 +1,17 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="configpropertyOld" type="JSON" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="masterjsonafter2" type="JSON" />
       <mapping pattern="configpropertyNew" type="JSON" />
-      <mapping pattern="prevMasterData.json" type="PLAIN_TEXT" />
+      <mapping pattern="configpropertyOld" type="JSON" />
       <mapping pattern="configpropertyOld.json" type="PLAIN_TEXT" />
-      <mapping pattern="masterjsonafter2.json" type="PLAIN_TEXT" />
       <mapping pattern="547-es-update_deficiency_identifiers.xml" type="PLAIN_TEXT" />
-      <mapping pattern="script" type="PLAIN_TEXT" />
+      <mapping pattern="masterjsonafter2.json" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="script" type="PLAIN_TEXT" />
+      <mapping pattern="prevMasterData.json" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pages" type="PLAIN_TEXT" />
