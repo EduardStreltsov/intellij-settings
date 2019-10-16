@@ -154,8 +154,12 @@
           <option name="url" value="https://github.com/EduardStreltsov/testing-junit5-mockito.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://Eduard_Streltsov@bitbucket.org/Eduard_Streltsov/fm.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\udemy\sfg5" />
+    <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
   </component>
 </application>
