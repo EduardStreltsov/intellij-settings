@@ -37,9 +37,22 @@
     <option name="ENABLED" value="false" />
   </editorconfig>
   <yaml>
+    <option name="INDENT_SEQUENCE_VALUE" value="false" />
     <option name="SEQUENCE_ON_NEW_LINE" value="true" />
   </yaml>
   <codeStyleSettings language="CSS">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="DB2">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Derby">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
@@ -57,6 +70,18 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="Groovy">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="H2">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="HSQLDB">
     <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
@@ -93,6 +118,24 @@
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
   </codeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Oracle">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="PostgreSQL">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
   <codeStyleSettings language="Properties">
     <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
   </codeStyleSettings>
@@ -105,9 +148,24 @@
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="CONTINUATION_INDENT_SIZE" value="8" />
-      <option name="TAB_SIZE" value="4" />
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="SQLite">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="Sybase">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="TSQL">
+    <indentOptions>
       <option name="USE_TAB_CHARACTER" value="true" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
     </indentOptions>
@@ -125,8 +183,7 @@
   </codeStyleSettings>
   <codeStyleSettings language="yaml">
     <indentOptions>
-      <option name="INDENT_SIZE" value="4" />
-      <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      <option name="INDENT_SIZE" value="3" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
