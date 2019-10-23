@@ -4,6 +4,7 @@
       <option name="USE_TAB_CHARACTER" value="true" />
     </value>
   </option>
+  <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <ECMA4CodeStyleSettings version="0">
     <option name="INDENT_PACKAGE_CHILDREN" value="1" />
   </ECMA4CodeStyleSettings>
@@ -19,6 +20,10 @@
     <option name="USE_CHAINED_CALLS_GROUP_INDENTS" value="true" />
     <option name="SPACE_BEFORE_ASYNC_ARROW_LPAREN" value="false" />
   </JSCodeStyleSettings>
+  <JavaCodeStyleSettings>
+    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
+  </JavaCodeStyleSettings>
   <Properties>
     <option name="SPACES_AROUND_KEY_VALUE_DELIMITER" value="true" />
     <option name="KEEP_BLANK_LINES" value="true" />
