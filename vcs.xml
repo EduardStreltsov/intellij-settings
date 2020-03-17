@@ -162,6 +162,10 @@
           <option name="url" value="https://github.com/EduardStreltsov/okta-spring-boot-2-angular-8-example.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/corelogic/res-homevisit-toolbox.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
