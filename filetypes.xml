@@ -4,6 +4,7 @@
       <mapping pattern="configpropertyOld" type="JSON" />
       <mapping pattern="masterjsonafter2" type="JSON" />
       <mapping pattern="configpropertyNew" type="JSON" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="configpropertyOld.json" type="PLAIN_TEXT" />
       <mapping pattern="547-es-update_deficiency_identifiers.xml" type="PLAIN_TEXT" />
       <mapping pattern="prevMasterData.json" type="PLAIN_TEXT" />
