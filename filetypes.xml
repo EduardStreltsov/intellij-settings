@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="configpropertyOld" type="JSON" />
       <mapping pattern="masterjsonafter2" type="JSON" />
