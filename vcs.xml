@@ -194,6 +194,18 @@
           <option name="url" value="git@github.com:BlackrockDigital/startbootstrap-simple-sidebar.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/InComm-Software-Development/ProduceIT-API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:InComm-Software-Development/ProduceIT-API.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:InComm-Software-Development/ProduceIT-UI.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/IdeaProjects" />
@@ -207,8 +219,5 @@
         <option value="3" />
       </list>
     </option>
-  </component>
-  <component name="VcsApplicationSettings">
-    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
