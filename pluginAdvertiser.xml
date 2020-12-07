@@ -128,6 +128,15 @@
             </plugin>
           </value>
         </entry>
+        <entry key="*.bpmn">
+          <value>
+            <plugin>
+              <option name="myPluginId" value="com.intellij" />
+              <option name="myPluginName" value="IDEA CORE" />
+              <option name="myBundled" value="true" />
+            </plugin>
+          </value>
+        </entry>
         <entry key="*.chm">
           <value>
             <plugin>
@@ -178,6 +187,7 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -707,7 +717,7 @@
           <value>
             <plugin>
               <option name="myPluginId" value="com.intellij.java" />
-              <option name="myPluginName" value="Java" />
+              <option name="myPluginName" value="com.intellij.java" />
               <option name="myBundled" value="true" />
             </plugin>
           </value>
@@ -1986,6 +1996,7 @@
             <plugin>
               <option name="myPluginId" value="Lombook Plugin" />
               <option name="myPluginName" value="Lombok" />
+              <option name="myBundled" value="true" />
             </plugin>
           </value>
         </entry>
@@ -2154,12 +2165,12 @@
                   </entry>
                   <entry key="ArquillianJUnit">
                     <value>
-                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="Arquillian" pluginId="com.intellij.jboss.arquillian" />
+                      <FeaturePluginData displayName="Arquillian JUnit" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
                     </value>
                   </entry>
                   <entry key="ArquillianTestNG">
                     <value>
-                      <FeaturePluginData displayName="Arquillian TestNG" pluginName="Arquillian" pluginId="com.intellij.jboss.arquillian" />
+                      <FeaturePluginData displayName="Arquillian TestNG" pluginName="com.intellij.jboss.arquillian" pluginId="com.intellij.jboss.arquillian" />
                     </value>
                   </entry>
                   <entry key="ChromiumRemoteDebugType">
@@ -2269,7 +2280,7 @@
                   </entry>
                   <entry key="KotlinJavaScriptTestRunnerProtractor">
                     <value>
-                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="Kotlin" pluginId="org.jetbrains.kotlin" />
+                      <FeaturePluginData displayName="Protractor (Kotlin)" pluginName="org.jetbrains.kotlin" pluginId="org.jetbrains.kotlin" />
                     </value>
                   </entry>
                   <entry key="KotlinStandaloneScriptRunConfigurationType">
@@ -2280,6 +2291,11 @@
                   <entry key="MavenRunConfiguration">
                     <value>
                       <FeaturePluginData displayName="Maven" pluginName="Maven" pluginId="org.jetbrains.idea.maven" />
+                    </value>
+                  </entry>
+                  <entry key="MicronautRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Micronaut" pluginName="Micronaut" pluginId="com.intellij.micronaut" />
                     </value>
                   </entry>
                   <entry key="NodeJSConfigurationType">
@@ -2295,6 +2311,11 @@
                   <entry key="NodeunitConfigurationType">
                     <value>
                       <FeaturePluginData displayName="Nodeunit" pluginName="Node.js" pluginId="NodeJS" />
+                    </value>
+                  </entry>
+                  <entry key="QuarkusRunConfigurationType">
+                    <value>
+                      <FeaturePluginData displayName="Quarkus" pluginName="Quarkus" pluginId="com.intellij.quarkus" />
                     </value>
                   </entry>
                   <entry key="ReactNative">
