@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="configpropertyOld" type="JSON" />
       <mapping pattern="masterjsonafter2" type="JSON" />
@@ -10,12 +10,14 @@
       <mapping pattern="547-es-update_deficiency_identifiers.xml" type="PLAIN_TEXT" />
       <mapping pattern="prevMasterData.json" type="PLAIN_TEXT" />
       <mapping pattern="script" type="PLAIN_TEXT" />
+      <mapping pattern="FRNTOFF-.sql" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="masterjsonafter2.json" type="PLAIN_TEXT" />
       <mapping ext="dbf" type="PLAIN_TEXT" />
       <mapping ext="dat" type="PLAIN_TEXT" />
       <mapping ext="pages" type="PLAIN_TEXT" />
       <mapping ext="ldif" type="PLAIN_TEXT" />
+      <mapping pattern="FRNTOFF-2474-migration-to-attachment-review.sql" type="SQL" />
       <mapping pattern="592-es-update_deficiencies_config" type="SQL" />
       <mapping pattern="547-es-update_deficiency_identifiers" type="XML" />
       <mapping pattern="0002-es-expenses-table-creation" type="YAML" />
